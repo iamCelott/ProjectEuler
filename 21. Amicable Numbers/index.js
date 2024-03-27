@@ -1,5 +1,5 @@
 let result = 0;
-const target = 10000;
+const target = 40000;
 function divide(angka) {
   let i = 1;
   let tampung = 0;
